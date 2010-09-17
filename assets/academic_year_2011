@@ -1,0 +1,249 @@
+<html>
+<head>
+<style type="text/css">
+table
+{ text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 11px;
+  color: #404040;
+  width: 500px;
+  background-color: #fafafa;
+  border: 1px #6699CC solid;
+  border-collapse: collapse;
+  border-spacing: 0px; 
+} 
+</style>
+</head>
+<body>
+<h4>210th Academic Year (Proposed calendar subject to change)</h4>
+<table border="1">
+<tbody>
+<tr>
+<td colspan="2"><strong>2011</strong></td>
+</tr>
+<tr>
+<td>August 1, Monday</td>
+<td>Ramadan begins at first light</td>
+</tr>
+<tr>
+<td>August 23-27, Tues.-Sat.</td>
+<td>Pre-Orientation Trips</td>
+</tr>
+<tr>
+<td>August 27, Saturday</td>
+<td>College housing ready for occupancy for first-year students only, 9:00 a.m.</td>
+</tr>
+<tr>
+<td>August 27-31, Sat.-Wed.</td>
+<td>Orientation</td>
+</tr>
+<tr>
+<td>August 30, Tuesday</td>
+<td>Ramadan ends at last light</td>
+</tr>
+<tr>
+<td>August 30, Tuesday</td>
+<td>College housing ready for occupancy for upperclass students, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>August 31, Wednesday</td>
+<td>Opening of the College&#8212;Convocation, 3:30 p.m.</td>
+</tr>
+<tr>
+<td>September 1, Thursday</td>
+<td>Fall semester classes begin, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>September 5, Monday</td>
+<td>Labor Day (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>Sept. 17, Saturday</td>
+<td>Common Good Day (Athletic teams here)</td>
+</tr>
+<tr>
+<td>Sept. 22-24, Thurs.-Sat.</td>
+<td>Alumni Council, Alumni Fund Directors and BASIC National Advisory Board meetings</td>
+</tr>
+<tr>
+<td>September 28-30, Wed. -Fri.</td>
+<td>Rosh Hashanah, begins at sunset on Sept. 28 and concludes at sunset on Sept.30</td>
+</tr>
+<tr>
+<td>October 7, Friday</td>
+<td>Fall vacation begins after last class; Note: Columbus Day is Monday, Oct. 10</td>
+</tr>
+<tr>
+<td>October 7-8, Fri.- Sat.</td>
+<td>Yom Kippur, begins at sunset on Oct. 7 and concludes at sunset on Oct. 8</td>
+</tr>
+<tr>
+<td>October 12, Wednesday</td>
+<td>Fall vacation ends, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>October 13-15, Thurs.-Sat.</td>
+<td>Meetings of the Board of Trustees (Athletic teams here)</td>
+</tr>
+<tr>
+<td>October 14-16, Fri.-Sun.</td>
+<td>Homecoming Weekend (Athletic teams here)</td>
+</tr>
+<tr>
+<td>October 28, Friday</td>
+<td>Sarah and James Bowdoin Day (Athletic teams here)</td>
+</tr>
+<tr>
+<td>October 28-30, Fri.-Sun.</td>
+<td>Parents Weekend (Athletic teams here)</td>
+</tr>
+<tr>
+<td>November 23, Wednesday</td>
+<td>Thanksgiving vacation begins, 8:00 a.m.* (November 23- 25: College holidays, many offices closed)</td>
+</tr>
+<tr>
+<td>November 28, Monday</td>
+<td>Thanksgiving vacation ends, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>December 9, Friday</td>
+<td>Last day of classes</td>
+</tr>
+<tr>
+<td>December 10-13, Sat.-Tues.</td>
+<td>Reading period</td>
+</tr>
+<tr>
+<td>December 14-19, Wed.-Mon.</td>
+<td>Fall semester examinations</td>
+</tr>
+<tr>
+<td>December 20, Tuesday</td>
+<td>College housing closes for winter break, noon</td>
+</tr>
+<tr class="xl25" height="12">
+<td>December 23, Friday</td>
+<td>Christmas Eve Holiday observed (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>December 26, Monday</td>
+<td>Christmas Holiday observed (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>December 30, Friday</td>
+<td>New Year's Eve Holiday observed (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>2012</strong></td>
+</tr>
+<tr>
+<td>January 2, Monday</td>
+<td>New Year's Holiday observed (College Holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>January 16, Monday</td>
+<td>Martin Luther King, Jr. Day (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>January 21, Saturday</td>
+<td>College housing available for occupancy, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>January 23, Monday</td>
+<td>Spring semester classes begin, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>February 9-11, Thurs.-Sat.</td>
+<td>Meetings of the Board of Trustees</td>
+</tr>
+<tr>
+<td>February 20, Monday</td>
+<td>Presidents' Day, classes in session (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>March 9, Friday</td>
+<td>Spring vacation begins after last class</td>
+</tr>
+<tr>
+<td>March 10, Saturday</td>
+<td>College housing closes for spring vacation, noon</td>
+</tr>
+<tr>
+<td>March 24, Saturday</td>
+<td>College housing available for occupancy, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>March 26, Monday</td>
+<td>Spring vacation ends, 8:00 a.m.</td>
+</tr>
+<tr>
+<td>March 29-Apr. 1, Thurs.-Sat.</td>
+<td>Alumni Council, Alumni Fund Directors and BASIC National Advisory Board meetings</td>
+</tr>
+<tr>
+<td>April 6, Friday</td>
+<td>Good Friday</td>
+</tr>
+<tr>
+<td>April 6-14, Fri.-Sat.</td>
+<td>Passover, begins at sunset on April 6 and concludes at sunset on April 14</td>
+</tr>
+<tr>
+<td>April 8, Sunday</td>
+<td>Easter</td>
+</tr>
+<tr>
+<td>May 9, Wednesday</td>
+<td>Last day of classes; Honors Day</td>
+</tr>
+<tr>
+<td>May 10-12, Thurs.-Sat.</td>
+<td>Meetings of the Board of Trustees</td>
+</tr>
+<tr>
+<td>May 10-13, Thurs.-Sun.</td>
+<td>Reading period</td>
+</tr>
+<tr>
+<td>May 14-19, Mon.-Sat.</td>
+<td>Spring semester examinations</td>
+</tr>
+<tr>
+<td>May 20, Sunday</td>
+<td>College housing closes for non-graduating students, noon</td>
+</tr>
+<tr>
+<td>May 25, Friday</td>
+<td>Baccalaureate</td>
+</tr>
+<tr>
+<td>May 26, Saturday</td>
+<td>The 207th Commencement Exercises</td>
+</tr>
+<tr>
+<td>May 26, Saturday</td>
+<td>College housing closes for graduating students, 6:00 p.m.</td>
+</tr>
+<tr>
+<td>May 28, Monday</td>
+<td>Memorial Day (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td>May 30 - June 3, Thurs.-Sun.</td>
+<td>Reunion Weekend</td>
+</tr>
+<tr>
+<td>July 4, Wednesday</td>
+<td>Fourth of July Holiday (College holiday, many offices closed)</td>
+</tr>
+<tr>
+<td colspan="2">Regular class schedules in effect on holidays listed unless otherwise noted. Staff, check with supervisor to determine if office is closed.</td>
+</tr>
+<tr>
+<td colspan="2">*Wednesday, November 23 classes will be rescheduled on a class-by-class basis by the course instructor.</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

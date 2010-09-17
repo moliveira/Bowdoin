@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+      android:background="#AAAAAAAA"
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:paddingTop="5dip"
+      android:paddingBottom="5dip"
+      android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/breakfast"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:layout_weight="1"
+            android:textSize="18px"
+            android:text="Breakfast" />
+        <Button
+            android:id="@+id/lunch"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:textSize="18px"
+
+            android:layout_weight="1"
+            android:text="Lunch" />
+        <Button
+            android:id="@+id/dinner"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:textSize="18px"
+            android:layout_weight="1"
+            android:text="Dinner" />
+        <Button
+            android:id="@+id/brunch"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:layout_weight="1"
+            android:textSize="18px"
+            android:text="Brunch" />
+      </LinearLayout>
+      <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1">
+          <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/webview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+      </LinearLayout>
+      <LinearLayout
+      android:background="#AAAAAAAA"
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:paddingTop="5dip"
+      android:paddingBottom="5dip"
+      android:layout_height="wrap_content">
+          <Button
+            android:id="@+id/moulton"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:textSize="18px"
+            android:layout_weight="1"
+            android:text="Moulton Union" />
+          <Button
+            android:id="@+id/thorn"
+            android:background="@drawable/black_white_gradient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:layout_weight="1"
+            android:textSize="18px"
+            android:text="Thorn Hall" />
+      </LinearLayout>
+</LinearLayout>
